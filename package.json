@@ -1,0 +1,17 @@
+{
+  "name": "file",
+  "version": "1.0.0",
+  "description": "this is nodejs-code",
+  "scripts": {
+  },
+  "author": "fangtao",
+  "license": "ISC",
+  "dependencies": {
+    "exif": "^0.6.0",
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^7.1.1",
+    "koa-static": "^3.0.0"
+  }
+}

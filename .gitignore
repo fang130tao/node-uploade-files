@@ -1,0 +1,8 @@
+build/
+project.egg-info/
+.idea/
+static/wxapi/apidoc/
+__pycache__
+*.egg
+node_modules/
+package-lock.json

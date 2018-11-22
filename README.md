@@ -2,9 +2,9 @@
 基于koa2的node上传文件，并且解析图片的信息
 
 # 命令
-npm i
-node myserver.js
-
+`yarn`
+ `node myserver.js`
+ 
 # 打开本地：
 http://localhost:8039/page/index.html
 
